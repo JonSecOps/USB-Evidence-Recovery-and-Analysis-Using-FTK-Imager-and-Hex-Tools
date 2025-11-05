@@ -1,4 +1,4 @@
-# USB-Forensics-Project
+# USB Evidence Recovery and Analysis Using FTK Imager and Hex Tools
 
 **Project Summary:**
 This USB Forensic project involved analyzing a USB thumb drive recovered in an intellectual property theft investigation by the FBI. Using tools like FTK Imager, DeepSound, SQLite Studio, and HexEditor, the investigation uncovered hidden files, encrypted documents, and password-protected archives. Evidence included stolen home floor plans and clues indicating the suspect's meeting location, contact person, item to be ordered, and software used for duplicating plans. This data was crucial for advancing the case against the suspect.
@@ -13,4 +13,4 @@ This USB Forensic project involved analyzing a USB thumb drive recovered in an i
 
 This project highlights essential skills and techniques in digital forensics, emphasizing precision and thoroughness in handling evidence.
 
-https://github.com/JonSecOps/USB-Forensics-Project/blob/main/USB%20Forensic%20Project.pdf
+
