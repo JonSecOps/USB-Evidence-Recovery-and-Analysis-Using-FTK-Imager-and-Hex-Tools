@@ -13,4 +13,4 @@ This USB Forensic project involved analyzing a USB thumb drive recovered in an i
 
 This project highlights essential skills and techniques in digital forensics, emphasizing precision and thoroughness in handling evidence.
 
-
+https://github.com/JonSecOps/USB-Evidence-Recovery-and-Analysis-Using-FTK-Imager-and-Hex-Tools/blob/main/USB%20Evidence%20Recovery%20and%20Analysis%20Using%20FTK%20Imager%20and%20Hex%20Tools.pdf
